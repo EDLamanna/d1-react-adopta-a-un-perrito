@@ -1,0 +1,18 @@
+.card {
+    padding: 2em;
+  }
+
+  .container{
+    display: flex;
+    gap: 2em;
+    margin: 2em;
+  }
+
+  .card-img-top{
+    height: 150px;
+  }
+  
+  .card-text{
+    height: 10em;
+  }
+  

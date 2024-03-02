@@ -8,7 +8,7 @@ const Seccion = () => {
           imagen="./src/assets/img/dogs001.jpg"
           Titulo="Pulguita"
           Descripcion="Llena de energía y lista para jugar. ¡Dale a Pulguita el hogar amoroso que se merece!"
-          variantButton="success"
+          variantBadge="success"
           textButton="Mini Toy"
         />
       </div>
@@ -17,7 +17,7 @@ const Seccion = () => {
           imagen="./src/assets/img/dogs002.jpg"
           Titulo="Luna"
           Descripcion="Es juguetona, amigable y se lleva bien con niños y otros animales. ¡Haz de Luna parte de tu familia hoy mismo!"
-          variantButton="info"
+          variantBadge="info"
           textButton="Spitz Aleman"
         />
       </div>
@@ -26,7 +26,7 @@ const Seccion = () => {
           imagen="./src/assets/img/dogs003.jpg"
           Titulo="Tomasito"
           Descripcion="Un perro de buen tamaño, y de un gran corazón. ¡Hazte amigo de Tomasito y experimenta un amor incondicional!"
-          variantButton="danger"
+          variantBadge="danger"
           textButton="Dogo de Burdeos"
         />
       </div>
@@ -35,7 +35,7 @@ const Seccion = () => {
           imagen="./src/assets/img/dogs004.jpg"
           Titulo="Oreo"
           Descripcion="Es un acompañante leal y cariñoso, ¡Ayudalo a encontrar su final feliz!"
-          variantButton="warning"
+          variantBadge="warning"
           textButton="Teckel"
         />
       </div>

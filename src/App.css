@@ -33,34 +33,9 @@
   }
 }
 
-.card {
-  padding: 2em;
-}
-
 .read-the-docs {
   color: #888;
 }
 
-.btn{
-  color:white !important;
-  font-weight: bold !important;
-  width: 100% !important;
-  height: 2em !important;
-  display: flex !important;
-  justify-content: center !important;
-  align-items: center !important;
-}
 
-.container{
-  display: flex;
-  gap: 2em;
-  margin: 2em;
-}
 
-.card-img-top{
-  height: 150px;
-}
-
-.card-text{
-  height: 10em;
-}

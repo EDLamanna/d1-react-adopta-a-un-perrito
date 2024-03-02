@@ -1,4 +1,6 @@
 import './App.css'
+import './components/Tags.css'
+import './components/MyCard.css'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import Header from './components/Header'
 import Seccion from './components/Seccion'

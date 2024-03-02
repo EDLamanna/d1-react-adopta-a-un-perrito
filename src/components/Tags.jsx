@@ -1,11 +1,11 @@
-import Button from "react-bootstrap/Button";
+import Badge from "react-bootstrap/Button";
 
-const Tags = ({ variantButton, textButton }) => {
+const Tags = ({ variantBadge, textButton }) => {
   return (
     <>
-      <Button className="botones" variant={variantButton}>
+      <Badge className="etiqueta" variant={variantBadge}>
         {textButton}
-      </Button>
+      </Badge>
     </>
   );
 };
